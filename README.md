@@ -10,10 +10,10 @@
 <!-- About Me Section -->
 <p align="center">
   <samp>
-    👀 I’m interested in <strong>IoT, Frontend Development, and Web Technologies</strong>.<br>
-    🌱 I’m currently learning <strong>Advanced JavaScript, React, and IoT Systems</strong>.<br>
-    💞️ I’m looking to collaborate on <strong>innovative IoT projects and cutting-edge web applications</strong>.<br>
-    📫 How to reach me: <a href="mailto:jatin.yadav@example.com"><strong>jatin.yadav@example.com</strong></a>.<br>
+    👀 I’m interested in <strong>Frontend Web Development and exploring all fields of Web Development</strong>.<br>
+    🌱 I’m currently learning <strong>Advanced JavaScript, React, and Tailwind CSS</strong>.<br>
+    💞️ I’m looking to collaborate on <strong>exciting web development projects</strong>.<br>
+    📫 How to reach me: <a href="mailto:jatin05yd@gmail.com"><strong>jatin05yd@gmail.com</strong></a>.<br>
     😄 Pronouns: <strong>He/Him</strong>.<br>
     ⚡ Fun fact: <strong>I love experimenting with new technologies and creating unique projects.</strong><br>
   </samp>
@@ -23,6 +23,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jatin-yadav05&show_icons=true&theme=radical" alt="Jatin's GitHub stats" width="420"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin-yadav05&layout=compact&theme=radical" alt="Top Languages" width="420"/>
+</p>
+
+<!-- LeetCode Stats Section -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/jatin005?theme=dark&font=source_code_pro&ext=activity" alt="Jatin's LeetCode stats" />
 </p>
 
 <!-- LinkedIn Badge Section -->
