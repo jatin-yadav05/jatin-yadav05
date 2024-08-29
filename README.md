@@ -7,6 +7,11 @@
   </samp>
 </p>
 
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jatin-yadav05&label=PROFILE+VIEWS&style=flat-square&color=brightgreen&label_color=black" alt="Profile Views" />
+</p>
+
 <!-- About Me Section -->
 <p align="center">
   <samp>
@@ -32,11 +37,11 @@
 
 <!-- LinkedIn Badge Section -->
 <p align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=jatin-yadav05&label=PROFILE+VIEWS&style=flat-square&color=brightgreen&label_color=black&icon=eye)
   <a href="https://www.linkedin.com/in/jatin-yadav05">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
 <!-- Footer -->
 <p align="center">
   <samp>
