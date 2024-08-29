@@ -31,12 +31,12 @@
 </p>
 
 <!-- LinkedIn Badge Section -->
+<img src="https://jatin-yadav05-profile-views-svg.s3.amazonaws.com/profile-views.svg" alt="Profile Views" width="24" height="24">
 <p align="center">
   <a href="https://www.linkedin.com/in/jatin-yadav05">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
 <!-- Footer -->
 <p align="center">
   <samp>
